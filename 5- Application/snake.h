@@ -2,7 +2,7 @@
  * snake.h
  *
  *  Created on: May 11, 2023
- *      Author: Kimo Store
+ *      Author: Abdelrahman Ibrahim
  */
 
 #ifndef SNAKE_H_
